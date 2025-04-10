@@ -1,0 +1,3 @@
+esse é um teste. Criei ramificacoes e nao fiz nenhum outro commit na main.
+Visualmente há apenas um bifurcação e não um "galho" que deveria surgir da main.
+commitando algo na main talvez mude a forma de representar os commits.
